@@ -1,0 +1,95 @@
+[
+	{"user_id":1,
+	"first_name":"Ade",
+	"last_name":"Long",
+	"birth_date":"2000-06-15",
+	"gender":"F",
+	"age":23,
+	"email":"nolonghere@gmail.com",
+	"address":{
+		"street":"Snina 585",
+		"postal_code":"06901",
+		"city":"Snina",
+		"country_name":"Slovakia",
+		"state_name":"Slovakia"
+		}
+	},
+	{"user_id":2,
+	"first_name":"John",
+	"last_name":"Doe",
+	"birth_date":"1985-07-12",
+	"gender":"M",
+	"age":39,
+	"email":"johndoe@gmail.com",
+	"address":{
+		"street":"123 Main St",
+		"postal_code":"10601",
+		"city":"New York",
+		"country_name":"USA",
+		"state_name":"New York"
+		}
+	},
+	{"user_id":3,
+    "first_name": "Emily",
+    "last_name": "Brown",
+    "birth_date": "1992-11-03",
+    "gender": "F",
+    "age": 32,
+    "email": "emily.brown@alibaba.com",
+    "address": {
+        "street": "789 Pine St",
+        "postal_code": "67890",
+        "city": "Dallas",
+        "country_name": "United States",
+        "state_name": "Texas"
+        }
+    },
+	{"user_id":4,
+	"first_name":"Mark",
+	"last_name":"Watney",
+	"birth_date":"1969-12-11",
+	"gender":"M",
+	"age":55,
+	"email":"mark.watney@gmail.com",
+	"address":{
+		"street":"2651 Elk Rd",
+		"postal_code":"76705",
+		"city":"Waco",
+		"country_name":"USA",
+		"state_name":"Texas"
+		}
+	},
+	{"user_id":5,
+    "first_name": "Alice",
+    "last_name": "Smith",
+    "birth_date": "1980-08-25",
+    "gender": "F",
+    "age": 44,
+    "email": "alice.smith@usa.com",
+    "address": {
+		"street": "123 Oak St",
+        "postal_code": "54321",
+        "city": "Smalltown",
+        "country_name": "United States",
+        "state_name": "California"
+        }
+    },
+	{"user_id":6,
+    "first_name": "Emily",
+    "last_name": "Brown",
+    "birth_date": "1992-11-03",
+    "gender": "F",
+    "age": 32,
+    "email": "emily.brown@alibaba.com",
+    "address": {
+        "street": "789 Pine St",
+        "postal_code": "67890",
+        "city": "Dallas",
+        "country_name": "United States",
+        "state_name": "Texas"
+        }
+    }
+]
+
+	
+		

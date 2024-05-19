@@ -1,0 +1,231 @@
+[
+	{
+		"bookID": 1231,
+		"name": "Harry Potter and the Deathly Hallows",
+		"year_published": 2014,
+		"ISBN": "1408855712",
+		"pageCount": 626,
+		"format": "paperback",
+		"edition": "Reprint",
+		"publication_date": "2019-08-19",
+		"weight": 1.1,
+		"genres": {
+			"genre_name": "Fantasy",
+			"description": "It features elements typical of the genre, such as a richly detailed imaginary world, magical creatures, and an epic quest."
+		},
+		"languages": "English",
+		"authors": [
+			{
+				"first_name": "J.K.",
+				"last_name": "Rowling",
+				"nationality": "British",
+				"biography": "J.K. Rowling is the author of the enduringly popular, era-defining Harry Potter book series, as well as several stand-alone novels for adults and children, and a bestselling crime fiction series written under the pen name Robert Galbraith. The Harry Potter books have now sold over 600...",
+				"website": "www.jkrowling.com",
+				"birth_date": "1965-07-31"
+			}
+		],
+		"book_series": {
+			"series_name": "Harry Potter",
+			"description": "Harry Potter has never been the star of a Quidditch team, scoring points while riding a broom far above the ground. He knows no spells, has never helped to hatch a dragon, and has never worn a cloak of invisibility."
+		},
+		"awards": [
+			{
+				"award_date": "2009-02-01",
+				"award_name": "Andre Norton Award for Young Adult Science Fiction and Fantasy",
+				"award_year": 2008,
+				"organization_name": "Science Fiction and Fantasy Writers Association"
+			}
+		],
+		"events": {
+			"event_date": "2007-07-21",
+			"event_name": "Publication Date",
+			"event_description": "Harry Potter and the Deathly Hallows was first published worldwide on July 21, 2007."
+		},
+		"publisher": {
+			"publisherName": "BLOOMSBURY",
+			"founder": "Nigel Newton",
+			"website": "https://www.bloomsbury.com/uk/",
+			"address": {
+				"street": "31 Bedford Avenue",
+				"postal_code": "WC1B 3AT",
+				"city": "London",
+				"country_name": "England",
+				"state_name": "United Kingdom"
+			}
+		},
+		"reviews": [
+			{
+				"user_id": 2,
+				"user_rating": 5.0,
+				"review_date": "2023-12-18",
+				"reviews_text": "This book was awesome, I liked the revelations revealed. Awesome read, I’ll recommend this to all my friends and family members!"
+			},
+			{
+				"user_id": 1,
+				"user_rating": 3.5,
+				"review_date": "2023-12-18",
+				"reviews_text": "JK Rowling's final installment in the Harry Potter franchise is a clunky, over-stuffed opus that's ultimately disappointing. One gets the sense, in reading this novel for the second time, that Rowling found herself having great difficulty concluding her saga in one volume - after all, the previous six books have each focused on one school year in the lives of Harry, Ron, and Hermione as they prepared themselves for the expected war between the forces of Good and Evil. The war itself, as compressed into this one book, feels rushed, bloated, summarized at times, and unsatisfying."
+			}
+		]
+	},
+	{
+		"bookID": 1232,
+		"name": "The Hobbit",
+		"year_published": 2014,
+		"ISBN": "9780547928227",
+		"pageCount": 300,
+		"format": "hardcover",
+		"edition": "Collector's Edition",
+		"publication_date": "2014-09-22",
+		"weight": 1.5,
+		"genres": {
+			"genre_name": "Fantasy",
+			"description": "It features elements typical of the genre, such as a richly detailed imaginary world, magical creatures, and an epic quest."
+		},
+		"languages": "English",
+		"authors": [
+			{
+				"first_name": "J.R.R.",
+				"last_name": "Tolkien",
+				"nationality": "British",
+				"biography": "J.R.R. Tolkien was an English writer, poet, philologist, and academic, best known as the author of the classic high fantasy works The Hobbit, The Lord of the Rings, and The Silmarillion.",
+				"website": "https://www.tolkien.co.uk/",
+				"birth_date": "1892-01-03"
+			}
+		],
+		"book_series": {
+			"series_name": "Middle-earth Universe",
+			"description": "The Middle-earth Universe encompasses J.R.R. Tolkien's novels set in the fictional universe of Middle-earth, including 'The Hobbit' and 'The Lord of the Rings' trilogy."
+		},
+		"awards": [
+			{
+				"award_date": "1938-12-01",
+				"award_name": "New York Herald Tribune Children's Spring Book Festival Award",
+				"award_year": 1938,
+				"organization_name": "New York Herald Tribune"
+			},
+			{
+				"award_date": "2000-01-02",
+				"award_name": "Keith Barker Millennium Book Award Winner",
+				"award_year": 2000,
+				"organization_name": "Youth Libraries Group, School Library Association and Library Association Schools Library Group"
+			}
+		],
+		"events": {
+			"event_date": "1937-09-21",
+			"event_name": "Publication Date",
+			"event_description": "The Hobbit was first published by George Allen & Unwin in the United Kingdom."
+		},
+		"publisher": {
+			"publisherName": "Houghton Mifflin Harcourt",
+			"founder": "Henry Oscar Houghton",
+			"website": "https://www.hmhco.com/",
+			"address": {
+				"street": "125 High Street",
+				"postal_code": "02142",
+				"city": "Boston",
+				"country_name": "United States",
+				"state_name": "Massachusetts"
+			}
+		},
+		"reviews": [
+			{
+				"user_id": 3,
+				"user_rating": 4.8,
+				"review_date": "2015-03-10",
+				"reviews_text": "The Hobbit is a timeless classic that captivates readers with its enchanting narrative and rich world-building. Tolkien's prose is masterful, and his characters are unforgettable. A must-read for fantasy fans of all ages"
+			}
+		]
+	},
+	{
+		"bookID": 1233,
+		"name": "The Age of AI: And Our Human Future",
+		"year_published": 2021,
+		"ISBN": "0316273805",
+		"pageCount": 272,
+		"format": "Hardcover",
+		"edition": "First",
+		"publication_date": "2021-11-02",
+		"weight": 1.04,
+		"genres": {
+			"genre_name": "Computers & Technology",
+			"description": "Books in the computer nonfiction genre are about the technology, application, function, and maintenance of computers. The books in this genre are designed to help people learn and understand the function and operation of a computer."
+		},
+		"languages": "English",
+		"authors": [
+			{
+				"first_name": "Henry A.",
+				"last_name": "Kissinger",
+				"nationality": "American",
+				"biography": "Henry A. Kissinger served as the 56th Secretary of State from September 1973 until January 1977. He also served as the Assistant to the President for National Security Affairs from January 1969 until November 1975. He received the Nobel Peace Prize in 1973, the Presidential Medal of Freedom in 1977, and the Medal of Liberty in 1986. Until his passing in 2023, he was Chairman of Kissinger Associates, Inc., an international consulting firm.",
+				"website": "https://www.henryakissinger.com/",
+				"birth_date": "1923-05-27"
+			},
+			{
+				"first_name": "Eric",
+				"last_name": "Schmidt",
+				"nationality": "American",
+				"biography": "Eric Schmidt is an accomplished technologist, entrepreneur and philanthropist. As Google’s Chief Executive Officer, he pioneered Google’s transformation from a Silicon Valley startup to a global leader in technology. He served as Google’s Chief Executive Officer and Chairman from 2001-2011, Executive Chairman from 2011-2018 and most recently as Technical Advisor from 2018-2020. Under his leadership Google dramatically scaled its infrastructure and diversified its product offerings while maintaining a strong culture of innovation. Prior to his career at Google, Eric held leadership roles at Novell and Sun Microsystems, Inc.",
+				"website": "https://ericschmidt.com/",
+				"birth_date": "1955-04-27"
+			},
+			{
+				"first_name": "Daniel",
+				"last_name": "Huttenlocher",
+				"nationality": "American",
+				"biography": "Daniel Huttenlocher is the inaugural dean of the MIT Schwarzman College of Computing. Previously he served as founding Dean and Vice Provost of Cornell Tech, the digital technology oriented graduate school created by Cornell University in New York City. He has a mix of academic and industry experience, as a Computer Science faculty member at Cornell and MIT, researcher and manager at the Xerox Palo Alto Research Center (PARC), and CTO of a fintech startup. He currently serves as chair of the John D. and Catherine T. MacArthur Foundation board and as a member of the Corning Inc. and Amazon.com boards.",
+				"website": "https://web.mit.edu/hutt/www/",
+				"birth_date": "1963-12-05"
+			}
+		],
+		"book_series": {
+			"series_name": "N/A",
+			"description": "This book is a standalone work and is not part of any series."
+		},
+		"awards": [
+			{
+				"award_date": "2022-06-15",
+				"award_name": "Financial Times and McKinsey Business Book of the Year Award",
+				"award_year": 2022,
+				"organization_name": "Financial Times and McKinsey"
+			}
+		],
+		"events": {
+			"event_date": "2021-11-02",
+			"event_name": "Publication Date",
+			"event_description": "The Age of AI: And Our Human Future was first published on November 2, 2021."
+		},
+		"publisher": {
+			"publisherName": "Little, Brown and Company",
+			"founder": "Charles Coffin Little and James Brown",
+			"website": "https://www.littlebrown.com/",
+			"address": {
+				"street": "1290 Avenue of the Americas",
+				"postal_code": "10104",
+				"city": "New York",
+				"country_name": "United States",
+				"state_name": "New York"
+			}
+		},
+		"reviews": [
+			{
+				"user_id": 4,
+				"user_rating": 5.0,
+				"review_date": "2023-03-19",
+				"reviews_text": "What is this book? A treaty? A compendium? An impassioned plea? Or a sales pitch drawing its unique proposition from philosophy, history, and humanities littered with revelations of opportunities and doom? It is everything, and more. As of writing, GPT-4 is the rave in artificial intelligence (AI). But the world has already had intimations of AI's power through its predecessors, particularly ChatGPT. In a deluge of information, it is necessary to have a voice of authority and wisdom to explain the phenomenon we face. This book fits the bill as a pamphlet that conceptually explains what AI is, without the technicalities that may baffle non-technical readers. (I have enjoyed an interview between one of the authors, Eric Schmidt and Alexandr Wang, on the subject, which inspired my purchase of the book)."
+			},
+			{
+				"user_id": 5,
+				"user_rating": 4.5,
+				"review_date": "2024-01-28",
+				"reviews_text": "Good read but had to do several re-reads to understand the points the authors were trying to make. Since I used to work for one if the authors, I had to get the book."
+			},
+			{
+				"user_id": 6,
+				"user_rating": 4.8,
+				"review_date": "2016-02-15",
+				"reviews_text": "Being a Vietnam veteran, I don't usually seek writings by Kissinger. I reluctantly have to admit, however, that with this book his research seems quite thorough, followed by thoughtful and compelling analysis. It is clearly and simply written, understandable even for dummies like me."
+			}
+		]
+	}
+]
